@@ -12,9 +12,9 @@ Problems have the following components, at least:
 1. Text (probably we can use Markdown for that part: https://daringfireball.net/projects/markdown/)
 2. Math typesetting (we can use LaTeX and/or MathML and/or MathJAX to display)
 3. Math objects
-  a) Functions
-  b) Matrices
-  c) Graphs
+  * Functions
+  * Matrices
+  * Graphs
 4. Code (Python)
   a) Generate random instances of a problem.
   b) Generate solutions to a problem.
