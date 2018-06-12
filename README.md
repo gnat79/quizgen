@@ -1,5 +1,5 @@
 # quizgen
-A django webapp for dynamic math quiz generation.
+A Python script dynamic math quiz generation. Eventually will be wrapped into the Mango project.
 
 # To Do
 We need a function class to compare, display, and interact with math functions. 
